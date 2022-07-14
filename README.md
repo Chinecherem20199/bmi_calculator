@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/19ILQp0BU1Z2WV8THkgsGPkF6UN3mDfnK/view?usp=sharing" width="120">
+![BMI2](https://user-images.githubusercontent.com/51314161/179073351-7c02b6aa-903a-448a-bfd6-a77b92dac874.jpg)
 
 # BMI Calculator 💪
 
