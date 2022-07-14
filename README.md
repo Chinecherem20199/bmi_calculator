@@ -1,5 +1,6 @@
 
 ![BMI2](https://user-images.githubusercontent.com/51314161/179073351-7c02b6aa-903a-448a-bfd6-a77b92dac874.jpg)
+![BMI](https://user-images.githubusercontent.com/51314161/179073639-d1cea570-4963-42ca-aca9-3af95521f5a5.jpg)
 
 # BMI Calculator 💪
 
